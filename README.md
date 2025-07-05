@@ -1,4 +1,4 @@
-# 🧠 Medium-Frequency Trading Engine (MFT)
+#  Medium-Frequency Trading Engine (MFT)
 
 This project is a medium-frequency trading engine designed for real-time tick/intraday data ingestion, strategy computation, automated execution, and live dashboard visualization. It supports live trading using Kite Connect and stores trade-related data in memory.
 

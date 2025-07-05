@@ -1,13 +1,13 @@
 
-api_key = "3cjan03ksbhpkvdi"
-api_secret = "9iewjt8dhbecxx7muzeqjehyngh2vrva"
-login_url = "https://kite.zerodha.com/connect/login?api_key=3cjan03ksbhpkvdi&v=3"
-access_token = "s6eAOQ739GUDr0EoDi8WWs4rYGL5BDP0"
+api_key = "xxxxxxxx"
+api_secret = "xxxxxxxx"
+login_url = "xxxxxxxx"
+access_token = "xxxxxxxx"
 
 TIMESCALE_DB_CONFIG = {
     "user": "postgres",
-    "password": "1111",
-    "database": "postgres",
+    "password": "xxxxxxxx",
+    "database": "xxxxxxxx",
     "host": "localhost",
     "port": 5432,
 }
